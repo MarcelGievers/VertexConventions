@@ -1,12 +1,3 @@
 ---
-title: "Vertex Conventions"
-author: "Marcel Gievers"
-date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
-documentclass: book
-bibliography: [bibliography.bib]
-biblio-style: apalike
-link-citations: yes
-description: "This is a minimal example of using
-  the bookdown package to write a book."
+bibliography: "bibliography.bib"
 ---
