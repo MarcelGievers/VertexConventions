@@ -6,15 +6,11 @@ Can I type Latex? $\Gamma_\mathcal{T}$? Here is a note[^note]. [@Held2008]
 
 bibliography: bibliography.bib
 
-# References
-
-<div id="refs"></div>
-
 ## Objects related to Green's function
 
 one-particle Green's function:
 	
-$G$ \cite{Kugler2018a,KuglerPRL2018b,KuglerNJP2018e,kugler2018fermi,gievers2022multiloop,ge2024real,ritter2022benchmark,roulet1969singularities, nozieres1969singularities2,Hille2020,Krien2019a,Krien2019,Krien2020a,Krien2021,fraboulet2022single,Bonetti2022SBE,Wentzell2020,Held2008,Held2011hedin}, $g$ (local) \cite{Krien2019a,Krien2019,Krien2019b,Krien2020a}
+$G$ [@Kugler2018a;@KuglerPRL2018b;@KuglerNJP2018e;@kugler2018fermi;@gievers2022multiloop;@ge2024real;@ritter2022benchmark;@roulet1969singularities;@ nozieres1969singularities2;@Hille2020;@Krien2019a;@Krien2019;@Krien2020a;@Krien2021;@fraboulet2022single;@Bonetti2022SBE;@Wentzell2020;@Held2008;@Held2011hedin}, $g$ (local) [@Krien2019a;@Krien2019;@Krien2019b;@Krien2020a}
 	
 bare one-particle Green's function:
 	
@@ -195,5 +191,10 @@ $\Gamma^{\sigma\bar\sigma}, \hat\Gamma^{\sigma\bar\sigma}, \Gamma^{\sigma\sigma}
 physical channels of the two-particle vertex
 	
 $\mathrm{sp}, \mathrm{ch}, \mathrm{tr}, \mathrm{si}$ \cite{gievers2022multiloop}, $\mathrm{m}, \mathrm{d}$ \cite{ge2024real}, $\mathrm{sp}, \mathrm{ch}, \mathrm{t}, \mathrm{s}$ \cite{Krien2019a,Krien2019,Krien2019b,Krien2020a,Krien2021,krien2022plain}, $\mathrm{M}$, $\mathrm{D}$, $\mathrm{SC}$ \cite{fraboulet2022single}, $m, d, s$ \cite{Bonetti2022SBE}
+
+
+# References
+
+<div id="refs"></div>
 
 [^note]: Note
